@@ -1,0 +1,23 @@
+<resources>
+
+    <dimen name="back_text_size">20sp</dimen>
+    <dimen name="media_type_text_size">25sp</dimen>
+    <dimen name="media_type_width">250px</dimen>
+    <dimen name="media_type_hint_line_wdith">5dp</dimen>
+    <dimen name="camera_location_text_size">20sp</dimen>
+    <dimen name="camera_location_height">80px</dimen>
+    <dimen name="camera_location_hint_line_height">3dp</dimen>
+
+    <!-- PhotoFragment -->
+    <dimen name="multi_select_title_height">50px</dimen>
+    <dimen name="icon_video_hint_length">80px</dimen>
+    <dimen name="item_icon_check_size">40px</dimen>
+
+    <!-- Multiple Title -->
+    <dimen name="multiple_title_text_size">18sp</dimen>
+    <dimen name="multiple_title_text_padding">20px</dimen>
+    
+    <!-- Video Play -->
+    <dimen name="video_play_time_text_size">20sp</dimen>
+
+</resources>
